@@ -50,6 +50,7 @@ insert into enum_era values (1, 'classical');
 insert into enum_era values (2, 'romantic');
 insert into enum_era values (3, 'modern');
 insert into enum_era values (4, 'pop');
+insert into enum_era values (5, 'video game');
 
 /* Constant non-pieces in piece table */
 
